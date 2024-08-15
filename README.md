@@ -6,12 +6,12 @@
 <img width="50%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### 📊 GitHub Stats:
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jaycode8&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Picoty&show_icons=true&theme=radical" />
 <img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaycode8&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaycode8&theme=ayu-mirage&hide_border=true" />
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=jaycode8&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Picoty&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 
 
 ### **🎯 Programming Languages**
@@ -47,15 +47,7 @@
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **🛠️ DevOps tools**
-![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+
 
 ### **🧰 Technologies, tools and platforms**
 ![](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
